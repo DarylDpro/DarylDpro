@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarylDpro
+- 👋 Hi, I’m @Daryl
 - 👀 I’m interested in JavaScript, HTML, CSS, and Front-end Development
 - 🌱 I’m currently learning HTML
 
